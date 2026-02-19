@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Abhijith Benny 👋
 
-<!--
-**abhijith-benny/abhijith-benny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech AI & Data Science Student  
+💡 Interested in Machine Learning, AI Automation & Backend Development  
+🚀 Building AI-powered real-world applications  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Projects
+
+### 🤖 Automated Virtual Meeting Assistant
+AI-powered assistant that joins meetings, captures conversations, and generates structured insights.  
+Tech: JavaScript, AI APIs  
+
+### 📊 Loan Approval Prediction System
+End-to-end ML pipeline with EDA, feature engineering, and Random Forest model training.  
+
+### 📝 AI Blog Generator
+Django-based app that converts YouTube videos into blog posts using transcription + LLM generation.  
+
+---
+
+## ⚙️ Tech Stack
+- Python
+- Machine Learning
+- Pandas, NumPy, Scikit-learn
+- Django
+- React
+- SQL
+- Git
+
+---
+
+## 📫 Connect with me
+LinkedIn: www.linkedin.com/in/abhijithbenny
